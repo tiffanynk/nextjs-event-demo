@@ -1,10 +1,9 @@
-import React from 'react';
 import Event from './Event';
 import classes from './EventList.module.css';
 
 export default function EventList(props) {
   const {events} = props;
-  
+
   return (
     <ul className={classes.list}>
       {events.map(event => {

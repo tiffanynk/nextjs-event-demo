@@ -6,7 +6,6 @@ export const MeetupHome = () => {
 
   return (
     <div>
-      <h1>Featured Events</h1>
       <EventList events={featuedEvents}/>
     </div>
   );
