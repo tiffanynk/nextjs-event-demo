@@ -7,6 +7,16 @@
 - `/events/[some-id]` Event Detail Page (show individual event)
 - `/events/...slug` Filtered events page
 
+## Features
+
+- Shows all events
+- Shows featured events
+- Shows filtered events
+- Shows individual event
+- Creates new events
+- Includes filter search bar with month and year filters
+- Renders errors
+
 ## Icons
 
 - Icons from [heroicons by TailwindCSS](https://heroicons.com/)
