@@ -1,4 +1,6 @@
-#NextJS Event App
+# NextJS Event App
+
+Run `npm run dev` to start the project locally.
 
 ## Planning Project Routes
 
